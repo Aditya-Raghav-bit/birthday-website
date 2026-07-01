@@ -91,16 +91,3 @@ h1, h2, h3, h4, p{
     text-shadow: 0 0 1px black;
     margin: 40px auto 20px;
 }
-
-/*
-Challenge:
-Create the "cheers" GIFt section.
-
-Note: this GIFt should have a height of 200px. 
-Select the #gift-img-cheers id and override 
-the height that the element got from the 
-.gift-img class.
-
-Text: 
-This one's for you, my friend 🥂
-*/
